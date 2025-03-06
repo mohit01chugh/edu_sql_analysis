@@ -25,14 +25,14 @@ An ER-Diagram 🔗 will be used to visualize the relationships between tables.
 
 ✅ **Result:** Transforming Data into Actionable Insights
 
-**The analysis reveals key trends:**
-**1.** Student enrollment is highest in Grade B and relatively even across all grades. 📊
-**2.** Student enrollment is heavily concentrated in major US cities like New York, Los Angeles, and Chicago. 🏙️
-**3.** Statistics, Economics, and Data Science are the most challenging topics. ⚠️
-**4.** Grades A and B offer a wider range of topics. 📚
+**The analysis reveals key trends:**  
+  **1.** Student enrollment is highest in Grade B and relatively even across all grades. 📊
+  **2.** Student enrollment is heavily concentrated in major US cities like New York, Los Angeles, and Chicago. 🏙️
+  **3.** Statistics, Economics, and Data Science are the most challenging topics. ⚠️
+  **4.** Grades A and B offer a wider range of topics. 📚
 
 **These insights lead to actionable recommendations for**:
-**1.** Improved resource allocation 💸.
-**2.** Targeted student support 🤝.
-**3.** Curriculum adjustments to address challenging topics. 📝
-**4.** Ultimately, this project empowers stakeholders to make data-driven decisions that enhance student success. 🎉 📣
+  **1.** Improved resource allocation 💸.
+  **2.** Targeted student support 🤝.
+  **3.** Curriculum adjustments to address challenging topics. 📝
+  **4.** Ultimately, this project empowers stakeholders to make data-driven decisions that enhance student success. 🎉 📣
