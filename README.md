@@ -5,6 +5,7 @@ However, stakeholders 👥 are facing challenges in translating this data into a
 topic effectiveness 📝, and resource allocation 💰. 🔍
 They need to understand how to support student success best and optimize the learning experience.
 
+
 🎯 **Task:**  Unlocking Data-Driven Decisions
 
 The goal is to analyze the data 🔬 to reveal patterns in student distribution 🗺️ across grades and locations, identify challenging topics 🤯, and understand performance trends 📊.
@@ -15,6 +16,7 @@ How many topics are offered in each grade?
 What is the distribution of students across grades?
 Where are students concentrated geographically?
 Which topics present the greatest academic challenges?
+
 
 💻 **Action:**  SQL as a Tool for Discovery
 
