@@ -20,29 +20,22 @@ Which topics present the greatest academic challenges?
 
 Using SQL queries ⌨️, we will delve into the "student_information" database, specifically tables like:
 
-date_date 🗓️ 
-
-city_region 🏙️ 
-
-topic_topic 📝 
-
-student_topic 🤝 
-
-student_student 🧑‍🎓 
+date_date 🗓️ || city_region 🏙️ || topic_topic 📝  || student_topic 🤝 || student_student 🧑‍🎓 
 
 We will analyze student demographics 🧑‍🎓, topic interactions 🤝, and performance metrics 💯, generating data visualizations 📈 and reports 📄.
 An ER-Diagram 🔗 will be used to visualize the relationships between tables.
 
+
 ✅ **Result:** Transforming Data into Actionable Insights
 
 **The analysis reveals key trends:**
-Student enrollment is highest in Grade B and relatively even across all grades. 📊
-Student enrollment is heavily concentrated in major US cities like New York, Los Angeles, and Chicago. 🏙️
-Statistics, Economics, and Data Science are the most challenging topics. ⚠️
-Grades A and B offer a wider range of topics. 📚
+**1.** Student enrollment is highest in Grade B and relatively even across all grades. 📊
+**2.** Student enrollment is heavily concentrated in major US cities like New York, Los Angeles, and Chicago. 🏙️
+**3.** Statistics, Economics, and Data Science are the most challenging topics. ⚠️
+**4.** Grades A and B offer a wider range of topics. 📚
 
 **These insights lead to actionable recommendations for**:
-Improved resource allocation 💸.
-Targeted student support 🤝.
-Curriculum adjustments to address challenging topics. 📝
-Ultimately, this project empowers stakeholders to make data-driven decisions that enhance student success. 🎉 📣
+**1.** Improved resource allocation 💸.
+**2.** Targeted student support 🤝.
+**3.** Curriculum adjustments to address challenging topics. 📝
+**4.** Ultimately, this project empowers stakeholders to make data-driven decisions that enhance student success. 🎉 📣
