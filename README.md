@@ -1,21 +1,13 @@
 📊 **Situation:**  Understanding Student Success Is Key
 
-Fueled by the "student_information" database 📚, an educational platform holds a wealth of data about student learning journeys. 🧑‍🎓
-However, stakeholders 👥 are facing challenges in translating this data into actionable insights about student performance 📈, 
-topic effectiveness 📝, and resource allocation 💰. 🔍
-They need to understand how to support student success best and optimize the learning experience.
+Fueled by the "student_information" database 📚, an educational platform holds a wealth of data about student learning journeys. However, stakeholders 👥 are facing challenges in translating this data into actionable insights about student performance 📈, topic effectiveness 📝, and resource allocation 💰. 
+🔍They need to understand how to support student success best and optimize the learning experience.
 
 
 🎯 **Task:**  Unlocking Data-Driven Decisions
 
 The goal is to analyze the data 🔬 to reveal patterns in student distribution 🗺️ across grades and locations, identify challenging topics 🤯, and understand performance trends 📊.
 This analysis will empower stakeholders to make informed decisions 💡 about curriculum adjustments, resource allocation, and targeted student support.
-
-Specifically, we need to answer questions like:
-How many topics are offered in each grade?
-What is the distribution of students across grades?
-Where are students concentrated geographically?
-Which topics present the greatest academic challenges?
 
 
 💻 **Action:**  SQL as a Tool for Discovery
